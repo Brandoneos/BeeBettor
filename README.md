@@ -3,7 +3,7 @@ NO AI WAS USED IN THE MAKING OF THIS PROJECT. AN EXTREME AMOUNT OF STACK OVERFLO
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+May need to do npm install for the node modules which aren't included in this repository.
 ## Available Scripts
 
 In the project directory, you can run:
